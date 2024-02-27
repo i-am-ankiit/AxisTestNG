@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-27T11:43:21 IST" name="Suite" finished-at="2024-02-27T11:43:34 IST" duration-ms="13408">
+    <groups>
+    </groups>
+    <test started-at="2024-02-27T11:43:21 IST" name="Test" finished-at="2024-02-27T11:43:34 IST" duration-ms="13408">
+      <class name="TestNG.invokeChrome">
+        <test-method signature="invokechrome()[pri:0, instance:TestNG.invokeChrome@51e69659]" started-at="2024-02-27T11:43:27 IST" name="invokechrome" finished-at="2024-02-27T11:43:31 IST" duration-ms="4670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokechrome -->
+      </class> <!-- TestNG.invokeChrome -->
+      <class name="TestNG.invokeedge">
+        <test-method signature="invokeegede()[pri:0, instance:TestNG.invokeedge@729d991e]" started-at="2024-02-27T11:43:21 IST" name="invokeegede" finished-at="2024-02-27T11:43:27 IST" duration-ms="6111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeegede -->
+      </class> <!-- TestNG.invokeedge -->
+      <class name="TestNG.ListnerTestClass">
+        <test-method signature="invokechrome()[pri:0, instance:TestNG.ListnerTestClass@201a4587]" started-at="2024-02-27T11:43:31 IST" name="invokechrome" finished-at="2024-02-27T11:43:34 IST" duration-ms="2553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokechrome -->
+      </class> <!-- TestNG.ListnerTestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
